@@ -1,0 +1,23 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxy323/NodePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxy323/NodePractice/issues"
+  },
+  "homepage": "https://github.com/mxy323/NodePractice#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "slugify": "^1.6.6"
+  }
+}
